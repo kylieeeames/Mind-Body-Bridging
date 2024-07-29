@@ -2,6 +2,5 @@ streamlit
 transformers
 openai
 numpy
-time
 scipy.special
 localtunnel
