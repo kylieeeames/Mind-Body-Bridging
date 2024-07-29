@@ -1,0 +1,7 @@
+streamlit
+openai
+numpy
+time
+transformers torch
+scipy.special
+localtunnel
